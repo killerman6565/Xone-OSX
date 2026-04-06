@@ -1,4 +1,10 @@
 {
+  "enabledPlugins": {
+    "superpowers@superpowers": true,
+    "document-skills@anthropics-skills": true,
+    "example-skills@anthropics-skills": true,
+    "claude-api@anthropics-skills": true
+  },
   "extraKnownMarketplaces": {
     "awesome-claude-skills": {
       "source": {
