@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "awesome-claude-skills": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git"
+      }
+    }
+  }
+}
